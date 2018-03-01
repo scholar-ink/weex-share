@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

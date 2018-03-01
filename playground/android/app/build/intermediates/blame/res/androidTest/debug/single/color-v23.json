@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

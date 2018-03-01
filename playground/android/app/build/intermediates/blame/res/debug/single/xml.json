@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/xml/scan_code_preferences.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/xml/scan_code_preferences.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/xml/preferences.xml"
+    }
+]

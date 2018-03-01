@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout-v21/notification_action.xml"
+    }
+]

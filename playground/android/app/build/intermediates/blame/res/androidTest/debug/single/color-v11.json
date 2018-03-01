@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

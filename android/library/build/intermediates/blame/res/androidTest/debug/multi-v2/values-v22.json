@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
