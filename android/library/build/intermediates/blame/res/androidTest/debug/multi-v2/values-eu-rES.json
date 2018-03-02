@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-eu-rES/values-eu-rES.xml",
+            "outputFile": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
             "map": [
                 {
-                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-eu-rES/values-eu-rES.xml",
+                    "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\values-eu-rES\\values-eu-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -16,10 +16,40 @@
             ]
         },
         {
-            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/values-eu-rES/values-eu-rES.xml",
+            "outputFile": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-eu-rES\\values-eu-rES.xml",
             "map": [
                 {
-                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-eu-rES/values-eu-rES.xml",
+                    "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,493,603,689,795,919,1006,1090,1172,1281,1391,1490,1599,1712,1823,1960,2059,2141",
+                        "endColumns": "108,107,122,97,109,85,105,123,86,83,81,108,109,98,108,112,110,136,98,81,100",
+                        "endOffsets": "159,267,390,488,598,684,790,914,1001,1085,1167,1276,1386,1485,1594,1707,1818,1955,2054,2136,2237"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,493,603,689,795,919,1006,1090,1172,1281,1391,1490,1599,1712,1823,1960,2059,2141",
+                        "endColumns": "108,107,122,97,109,85,105,123,86,83,81,108,109,98,108,112,110,136,98,81,100",
+                        "endOffsets": "159,267,390,488,598,684,790,914,1001,1085,1167,1276,1386,1485,1594,1707,1818,1955,2054,2136,2237"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\values-eu-rES\\values-eu-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

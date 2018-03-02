@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/encode.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/encode.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\history.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/refresh.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/refresh.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/history.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/history.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\capture.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/main.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/main_scan.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\refresh.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\refresh.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/menu/capture.xml",
-        "source": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/res/menu/capture.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\refresh.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\refresh.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "F:\\jscode\\weex-share\\playground\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
     }
 ]

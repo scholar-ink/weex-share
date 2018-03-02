@@ -1,198 +1,402 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_edit_text_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/error.png",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/res/drawable/error.png"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/notification_bg.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_checked.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\ea65f12286bc017b2e755e966f580374\\res\\drawable\\wxt_radio_checked.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_text_cursor_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_dialog_material_background.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_btn_bg.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\bb05286e60d37bb032d3d460d750233b\\res\\drawable\\wxt_btn_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_sdk-0.16.0.aar\\a3ec7b5eca4fee1895fc467d09d7040d\\res\\drawable\\error.png"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_clear_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/wxt_radio_checked.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable/wxt_radio_checked.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/notification_icon_background.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_vector_test.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_check_box_style.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\bb05286e60d37bb032d3d460d750233b\\res\\drawable\\wxt_check_box_style.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/wxt_btn_bg.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable/wxt_btn_bg.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_textfield_search_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/wxt_radio_unchecked.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable/wxt_radio_unchecked.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/wxt_radio_btn_style.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable/wxt_radio_btn_style.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_btn_bg.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\ea65f12286bc017b2e755e966f580374\\res\\drawable\\wxt_btn_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/design_snackbar_background.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/design_fab_background.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ratingbar_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/navigation_empty_icon.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_radio_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_check_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_btn_style.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\ea65f12286bc017b2e755e966f580374\\res\\drawable\\wxt_radio_btn_style.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/notification_bg_low.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_colored_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_unchecked.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\ea65f12286bc017b2e755e966f580374\\res\\drawable\\wxt_radio_unchecked.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/wxt_check_box_style.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable/wxt_check_box_style.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/design_password_eye.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/design_password_eye.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/notification_tile_bg.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\OneKeyShare-3.1.3.1.aar\\2db0dcf09b723a0a73e7e775504e76c3\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\OneKeyShare-3.1.3.1.aar\\2db0dcf09b723a0a73e7e775504e76c3\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_checked.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\bb05286e60d37bb032d3d460d750233b\\res\\drawable\\wxt_radio_checked.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_btn_style.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\bb05286e60d37bb032d3d460d750233b\\res\\drawable\\wxt_radio_btn_style.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_check_box_style.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\ea65f12286bc017b2e755e966f580374\\res\\drawable\\wxt_check_box_style.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error.png",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\weex_sdk-0.16.0.aar\\541974fdbcc682680683042f693c3aae\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_unchecked.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\weex_analyzer-0.1.0.5.aar\\bb05286e60d37bb032d3d460d750233b\\res\\drawable\\wxt_radio_unchecked.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     }
 ]

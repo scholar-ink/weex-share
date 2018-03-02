@@ -8,6 +8,6 @@ package com.alibaba.weex.plugin.loader;
 
 public final class R {
     public static final class string {
-        public static final int app_name = 0x7f090015;
+        public static final int app_name = 0x7f0900a6;
     }
 }

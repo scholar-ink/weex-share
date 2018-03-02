@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

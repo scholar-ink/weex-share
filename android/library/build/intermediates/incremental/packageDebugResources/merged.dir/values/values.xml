@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="bg_color">#F3F3F3</color>
+    <color name="black_30">#64000000</color>
+    <color name="black_54">#89000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="popu_52">#74000000</color>
+    <color name="transparence">#00ffffff</color>
+    <color name="white">#ffffff</color>
     <string name="app_name">ActionSheet</string>
 </resources>

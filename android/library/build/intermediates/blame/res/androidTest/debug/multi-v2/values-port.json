@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/values-port/values-port.xml",
+            "outputFile": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,40 @@
             ]
         },
         {
-            "outputFile": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/layout-v21/notification_action.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

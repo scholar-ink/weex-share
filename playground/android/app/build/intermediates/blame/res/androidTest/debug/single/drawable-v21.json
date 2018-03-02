@@ -1,34 +1,66 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_show_password.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-v21/avd_show_password.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-v21/avd_hide_password.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_password_eye.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable-v21/design_password_eye.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-v21/notification_action_background.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\8b9a7173fd05f3c70a5d5fdaa1a399dd\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\69e0a858f7bdf6e25ebfd516f68c2c20\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

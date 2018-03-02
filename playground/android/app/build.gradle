@@ -1,17 +1,17 @@
 apply plugin: 'com.android.application'
-
+apply plugin: "com.mob.sdk"
 android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "org.weex.demo"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
-        ndk{
+        ndk {
             abiFilters "x86"
             abiFilters "armeabi"
         }
@@ -25,13 +25,49 @@ android {
     sourceSets {
         main {
             java {
-                srcDirs = ["src/main/java", "src/main/java_zxing","src/main/java_commons"];
+                srcDirs = ["src/main/java", "src/main/java_zxing", "src/main/java_commons"];
+            }
+        }
+    }
+
+    MobSDK {
+        appKey "d580ad56b4b5"
+        appSecret "7fcae59a62342e7e2759e9e397c82bdd"
+
+        ShareSDK {
+            devInfo {
+                SinaWeibo {
+                    appKey "568898243"
+                    appSecret "38a4f8204cc784f81f9f0daaf31e02e3"
+                    callbackUri "http://www.sharesdk.cn"
+                    shareByAppClient true
+                }
+                Wechat {
+                    appId "wx4868b35061f87885"
+                    appSecret "64020361b8ec4c99936c0e3999a9f249"
+                }
+                QQ {
+                    appId "1106613900"
+                    appKey "rYgXiPenEOuJs0fM"
+                    shareByAppClient true
+                }
+                WechatMoments {
+                    appId "1106613900"
+                    appKey "rYgXiPenEOuJs0fM"
+                    shareByAppClient true
+                }
+                QZone {
+                    appId "1106613900"
+                    appKey "rYgXiPenEOuJs0fM"
+                    shareByAppClient true
+                }
             }
         }
     }
 }
 
 dependencies {
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
     androidTestCompile "com.android.support:support-annotations:${rootProject.ext.androidSupportVersion}"
@@ -51,7 +87,7 @@ dependencies {
     debugCompile 'com.taobao.android:weex_analyzer:0.1.0.5'
 
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile ('com.facebook.fresco:fresco:0.10.0')
+    compile('com.facebook.fresco:fresco:0.10.0')
     compile 'com.squareup.okhttp:okhttp:2.3.0'
     compile 'com.squareup.okhttp:okhttp-ws:2.3.0'
     compile 'com.squareup.okio:okio:1.0.1'

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "F:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\58943103707e043c5c05d9d2e5b1daeb\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\playground\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\94c45cf88d9d5375810ac31a47505b05\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

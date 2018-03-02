@@ -1,42 +1,82 @@
 [
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_slide_out_bottom.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_slide_in_bottom.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_slide_out_top.xml"
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_fade_out.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_slide_in_top.xml"
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_fade_in.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_popup_exit.xml"
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/6f7a411765b9bb0e74dd653a2eb0a573/res/anim/abc_popup_enter.xml"
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Users\\zhouchao\\vagrant\\web\\weex-plugin\\share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Users\\zhouchao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\6f7a411765b9bb0e74dd653a2eb0a573\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\jscode\\weex-share\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\32853\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\f9234c8b5b6373ba126486b6bcbd79bc\\res\\anim\\abc_fade_out.xml"
     }
 ]

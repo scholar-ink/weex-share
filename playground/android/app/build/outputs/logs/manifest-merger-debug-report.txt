@@ -1,367 +1,518 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-MERGED from [com.facebook.fresco:fresco:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fresco-0.10.0.aar/f751c6f118a7279109a973ae34f491b2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:17:1-27:12
-MERGED from [com.facebook.fresco:drawee:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/drawee-0.10.0.aar/182658f4462a635de5a713ffcbbf9bc4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.10.0.aar/262acf71566423b2fb04f6af4c970bfb/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:transition:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/d14a3e5d7a37b91e5cf5eb24651bea30/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.10.0.aar/a693ef3ca6b72810f86727276b37e34e/AndroidManifest.xml:2:1-9:12
-MERGED from [:library] /Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-v4:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1afef3e0722148f22fd1f82df7e55242/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/83abf8a431e05b99bf906c81b57381a5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0b515a4d66d6da62f8098b19c4d12d28/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/9c520e116d6b816e4ac5d721e5dae3c8/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1bd33bc04aa1f5ae60ef05ebfc51744c/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/6677bea99893b16ad8cd05879b884b48/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/8876e9c313598dc6f934a529d57a392f/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/fc72ca072b0ac945121cf96048d96b98/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/66e5aabc112759b7e2aa54445b774769/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/a79f43270ec1f7ea6cf8647b61878699/AndroidManifest.xml:17:1-26:12
-MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/urlconnection_interceptor-1.0.0.aar/23c0521257b0263b60b0b40513b8aa6f/AndroidManifest.xml:2:1-11:12
-MERGED from [com.taobao.android:weex_inspector:0.12.1] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_inspector-0.12.1.aar/55d9e5f5d74d49ef12e861ee14f7b5b6/AndroidManifest.xml:2:1-15:12
-MERGED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:20:1-37:12
-MERGED from [org.weex.plugin:plugin-loader:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/plugin-loader-1.0.0.aar/5a3fe8db764c4d59df588def98ec9ca4/AndroidManifest.xml:2:1-15:12
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:2:1-20:12
-MERGED from [com.facebook.fresco:fbcore:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fbcore-0.10.0.aar/cd14570052cbcbdc83cf1a85b97ccf8f/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:1:39-36:12
+MERGED from [cn.sharesdk:ShareSDK:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.1.3.1.aar\6149b84f5c9489f92df9825e14147cce\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:1:39-36:12
+MERGED from [com.facebook.fresco:fresco:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fresco-0.10.0.aar\6f55e0b90b95c52b7c7c37efe71c272e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fresco:drawee:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\drawee-0.10.0.aar\53c1c9e6a5cec5c0e395fa078a98c0ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.10.0.aar\16008d612948d7fc46acceebded6854f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\4d2f9c13bb07b9c313aaba391b06647a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.10.0.aar\b374ba6f5e5db354c127909ad0c7e73b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\8b9a7173fd05f3c70a5d5fdaa1a399dd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\341466d864543adf666605b7e7bd2a17\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\9818e93023f83becc90968b7f5bc4a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fa01ac98366c8459eec3f5f80d54e02f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b4d142a9ffab43b4f18c37e126e1f81e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\9571db4dac0ab4fa78a12e05b54642aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\9af85f4765e0b71e97cc2427cde10887\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\60c5d1d1a017370eebbd293518baa979\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\af7c402d0bc3a97ae8be21883ae3de2c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\48e4b48901c6e8b17c4dac74f2203773\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\e3d2bdcc75cba62c021a4d5032d2a9a8\AndroidManifest.xml:17:1-26:12
+MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\urlconnection_interceptor-1.0.0.aar\a389a2538bd78b9cf32b62baf31aa2c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.taobao.android:weex_inspector:0.12.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_inspector-0.12.1.aar\dd46f121873aaa88d6004bbaf13cfe58\AndroidManifest.xml:2:1-15:12
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:20:1-37:12
+MERGED from [org.weex.plugin:plugin-loader:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\plugin-loader-1.0.0.aar\a5ba83dd756093ff87a3da40bc7224b5\AndroidManifest.xml:2:1-15:12
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\160dfd0f5507e749660ffb62f6f51eab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fbcore-0.10.0.aar\071b3f9ecf31b9b408928dfc4b3e427c\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
 	package
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:4:11-37
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:3:11-57
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:1-120:12
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:1-129:12
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:3-64
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:3-64
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:4:3-64
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:4:3-64
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:7:5-80
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:3-78
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:3-78
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:9:3-78
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:9:3-78
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:8:5-79
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:3-77
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:3-77
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:8:3-77
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:8:3-77
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:8:22-77
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.CAMERA
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:9:5-64
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:9:22-62
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:9:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:10:5-78
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:3-76
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:3-76
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:6:3-76
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:6:3-76
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:11:5-87
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:11:5-88
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:11:22-85
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:11:22-85
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:12:5-77
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:11:5-78
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:11:5-78
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:11:5-78
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:12:22-75
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:12:22-75
 uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:13:5-79
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:13:22-77
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:13:22-77
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:14:5-65
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:14:22-63
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:14:22-63
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:15:5-74
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:15:5-75
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:3-72
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:3-72
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:10:3-72
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:10:3-72
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:15:22-72
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:15:22-72
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:16:5-78
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:3-76
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:3-76
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:12:3-76
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:12:3-76
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:16:22-76
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:17:5-80
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:17:5-81
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:3-78
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:3-78
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:11:3-78
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:11:3-78
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:17:22-78
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:17:22-78
 uses-feature#android.hardware.camera
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:19:5-59
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:19:5-60
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:19:19-57
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:19:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:20:5-69
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:20:5-70
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:20:19-67
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:20:19-67
 application
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:22:5-118:19
-MERGED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:transition:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/d14a3e5d7a37b91e5cf5eb24651bea30/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:transition:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/d14a3e5d7a37b91e5cf5eb24651bea30/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1afef3e0722148f22fd1f82df7e55242/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1afef3e0722148f22fd1f82df7e55242/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0b515a4d66d6da62f8098b19c4d12d28/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0b515a4d66d6da62f8098b19c4d12d28/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/9c520e116d6b816e4ac5d721e5dae3c8/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/9c520e116d6b816e4ac5d721e5dae3c8/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1bd33bc04aa1f5ae60ef05ebfc51744c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1bd33bc04aa1f5ae60ef05ebfc51744c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/6677bea99893b16ad8cd05879b884b48/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/6677bea99893b16ad8cd05879b884b48/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/8876e9c313598dc6f934a529d57a392f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/8876e9c313598dc6f934a529d57a392f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/fc72ca072b0ac945121cf96048d96b98/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/fc72ca072b0ac945121cf96048d96b98/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/66e5aabc112759b7e2aa54445b774769/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/66e5aabc112759b7e2aa54445b774769/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/a79f43270ec1f7ea6cf8647b61878699/AndroidManifest.xml:24:5-20
-MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/a79f43270ec1f7ea6cf8647b61878699/AndroidManifest.xml:24:5-20
-MERGED from [com.taobao.android:weex_inspector:0.12.1] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_inspector-0.12.1.aar/55d9e5f5d74d49ef12e861ee14f7b5b6/AndroidManifest.xml:13:5-20
-MERGED from [com.taobao.android:weex_inspector:0.12.1] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_inspector-0.12.1.aar/55d9e5f5d74d49ef12e861ee14f7b5b6/AndroidManifest.xml:13:5-20
-MERGED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:29:5-35:19
-MERGED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:29:5-35:19
-MERGED from [org.weex.plugin:plugin-loader:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/plugin-loader-1.0.0.aar/5a3fe8db764c4d59df588def98ec9ca4/AndroidManifest.xml:9:5-13:19
-MERGED from [org.weex.plugin:plugin-loader:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/plugin-loader-1.0.0.aar/5a3fe8db764c4d59df588def98ec9ca4/AndroidManifest.xml:9:5-13:19
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:14:5-18:19
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:14:5-18:19
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:22:5-127:19
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:3:3-22:17
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:3:3-22:17
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:16:3-35:17
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:16:3-35:17
+MERGED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\4d2f9c13bb07b9c313aaba391b06647a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\4d2f9c13bb07b9c313aaba391b06647a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\8b9a7173fd05f3c70a5d5fdaa1a399dd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\8b9a7173fd05f3c70a5d5fdaa1a399dd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\341466d864543adf666605b7e7bd2a17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\341466d864543adf666605b7e7bd2a17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fa01ac98366c8459eec3f5f80d54e02f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fa01ac98366c8459eec3f5f80d54e02f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b4d142a9ffab43b4f18c37e126e1f81e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b4d142a9ffab43b4f18c37e126e1f81e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\9571db4dac0ab4fa78a12e05b54642aa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\9571db4dac0ab4fa78a12e05b54642aa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\9af85f4765e0b71e97cc2427cde10887\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\9af85f4765e0b71e97cc2427cde10887\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\60c5d1d1a017370eebbd293518baa979\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\60c5d1d1a017370eebbd293518baa979\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\af7c402d0bc3a97ae8be21883ae3de2c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\af7c402d0bc3a97ae8be21883ae3de2c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\48e4b48901c6e8b17c4dac74f2203773\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\48e4b48901c6e8b17c4dac74f2203773\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\e3d2bdcc75cba62c021a4d5032d2a9a8\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\e3d2bdcc75cba62c021a4d5032d2a9a8\AndroidManifest.xml:24:5-20
+MERGED from [com.taobao.android:weex_inspector:0.12.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_inspector-0.12.1.aar\dd46f121873aaa88d6004bbaf13cfe58\AndroidManifest.xml:13:5-20
+MERGED from [com.taobao.android:weex_inspector:0.12.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_inspector-0.12.1.aar\dd46f121873aaa88d6004bbaf13cfe58\AndroidManifest.xml:13:5-20
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:29:5-35:19
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:29:5-35:19
+MERGED from [org.weex.plugin:plugin-loader:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\plugin-loader-1.0.0.aar\a5ba83dd756093ff87a3da40bc7224b5\AndroidManifest.xml:9:5-13:19
+MERGED from [org.weex.plugin:plugin-loader:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\plugin-loader-1.0.0.aar\a5ba83dd756093ff87a3da40bc7224b5\AndroidManifest.xml:9:5-13:19
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:14:5-18:19
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\160dfd0f5507e749660ffb62f6f51eab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\160dfd0f5507e749660ffb62f6f51eab\AndroidManifest.xml:9:5-20
+	tools:node
+		ADDED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:16:101-119
 	android:supportsRtl
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:27:13-39
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:27:9-35
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:26:13-45
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:26:9-41
 	tools:overrideLibrary
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:29:13-64
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:29:9-60
+	xmlns:tools
+		ADDED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:16:16-62
 	android:icon
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:25:13-47
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:25:9-43
 	android:allowBackup
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:24:13-40
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:24:9-36
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:28:13-44
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:28:9-40
+	tools:replace
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:30:9-37
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:23:13-42
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:23:9-38
+		REJECTED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:3:16-53
+		REJECTED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:16:63-100
 uses-library#android.test.runner
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:30:9-59
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:31:9-60
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:30:23-57
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:31:23-57
 activity#com.alibaba.weex.SplashActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:32:9-43:20
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:33:9-44:20
 	android:screenOrientation
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:36:17-53
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:37:13-49
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:35:17-49
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:36:13-45
 	android:configChanges
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:34:17-78
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:35:13-74
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:37:17-55
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:38:13-51
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:33:17-47
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:34:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:39:17-68
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:41:17-76
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:41:27-74
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.alibaba.weex.IndexActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:44:9-49:20
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:45:9-49:68
 	android:screenOrientation
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:47:17-53
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:48:13-49
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:46:17-49
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:47:13-45
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:48:17-60
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:45:17-46
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:46:13-42
 activity#com.alibaba.weex.WXPageActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:50:9-67:20
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:50:9-68:20
 	android:screenOrientation
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:53:17-53
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:53:13-49
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:52:17-49
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:52:13-45
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:54:17-60
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:54:13-56
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:51:17-47
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:51:13-43
 intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT+com.taobao.android.intent.action.WEEX+com.taobao.android.intent.category.WEEX
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:55:13-66:29
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:55:13-67:29
 action#com.taobao.android.intent.action.WEEX
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:56:17-79
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:56:17-80
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:56:25-77
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:56:25-77
 category#android.intent.category.DEFAULT
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:58:17-75
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:58:17-76
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:58:27-73
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:58:27-73
 category#com.taobao.android.intent.category.WEEX
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:59:17-83
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:59:17-84
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:59:27-81
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:59:27-81
 action#android.intent.action.VIEW
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:60:17-68
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:61:17-69
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:60:25-66
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:61:25-66
 data
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:62:17-46
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:63:17-47
 	android:path
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:86:56-76
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:89:21-41
 	android:host
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:86:23-55
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:88:21-53
 	android:scheme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:62:23-44
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:63:23-44
 activity#com.google.zxing.client.android.CaptureActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:68:9-88:20
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:69:9-92:20
 	android:screenOrientation
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:71:17-53
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:72:13-49
 	android:clearTaskOnLaunch
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:70:17-49
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:71:13-45
 	android:stateNotNeeded
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:72:17-46
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:73:13-42
 	android:windowSoftInputMode
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:74:17-64
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:75:13-60
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:73:17-52
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:74:13-48
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:69:17-79
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:70:13-75
 intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SCAN
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:75:13-79:29
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:76:13-80:29
 action#com.google.zxing.client.android.SCAN
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:76:17-78
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:77:17-79
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:76:25-76
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:77:25-76
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:80:13-87:29
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:81:13-91:29
 category#android.intent.category.BROWSABLE
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:84:17-77
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:85:17-78
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:84:27-75
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:85:27-75
 activity#com.google.zxing.client.android.history.HistoryActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:89:9-92:48
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:93:9-96:45
 	android:stateNotNeeded
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:92:17-46
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:96:13-42
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:91:17-54
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:95:13-50
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:90:17-87
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:94:13-83
 activity#com.alibaba.weex.WXDebugActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:93:9-115:20
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:97:9-123:20
 	android:label
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:95:17-63
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:99:13-59
 	android:theme
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:96:17-60
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:100:13-56
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:94:17-48
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:98:13-44
 intent-filter#android.intent.category.DEFAULT+weex.intent.action.dynamic+weex.intent.category.dynamic
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:97:13-105:29
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:101:13-111:29
 action#weex.intent.action.dynamic
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:98:17-68
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:102:17-69
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:98:25-66
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:102:25-66
 category#weex.intent.category.dynamic
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:100:17-72
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:104:17-73
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:100:27-70
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:104:27-70
 activity#com.alibaba.weex.BenchmarkActivity
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:116:9-117:57
+ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:124:9-126:52
 	android:screenOrientation
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:117:19-55
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:126:13-49
 	android:name
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml:116:19-68
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml:125:13-46
 uses-sdk
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.fresco:fresco:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fresco-0.10.0.aar/f751c6f118a7279109a973ae34f491b2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fresco-0.10.0.aar/f751c6f118a7279109a973ae34f491b2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:21:5-23:62
-MERGED from [com.facebook.fresco:drawee:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/drawee-0.10.0.aar/182658f4462a635de5a713ffcbbf9bc4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/drawee-0.10.0.aar/182658f4462a635de5a713ffcbbf9bc4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.10.0.aar/262acf71566423b2fb04f6af4c970bfb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.10.0.aar/262acf71566423b2fb04f6af4c970bfb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:transition:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/d14a3e5d7a37b91e5cf5eb24651bea30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/d14a3e5d7a37b91e5cf5eb24651bea30/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.10.0.aar/a693ef3ca6b72810f86727276b37e34e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.10.0.aar/a693ef3ca6b72810f86727276b37e34e/AndroidManifest.xml:5:5-7:41
-MERGED from [:library] /Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:library] /Users/zhouchao/vagrant/web/weex-plugin/share/android/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1afef3e0722148f22fd1f82df7e55242/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1afef3e0722148f22fd1f82df7e55242/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/83abf8a431e05b99bf906c81b57381a5/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/83abf8a431e05b99bf906c81b57381a5/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0b515a4d66d6da62f8098b19c4d12d28/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0b515a4d66d6da62f8098b19c4d12d28/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/9c520e116d6b816e4ac5d721e5dae3c8/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/9c520e116d6b816e4ac5d721e5dae3c8/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1bd33bc04aa1f5ae60ef05ebfc51744c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1bd33bc04aa1f5ae60ef05ebfc51744c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/6677bea99893b16ad8cd05879b884b48/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/6677bea99893b16ad8cd05879b884b48/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/8876e9c313598dc6f934a529d57a392f/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/8876e9c313598dc6f934a529d57a392f/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/fc72ca072b0ac945121cf96048d96b98/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/fc72ca072b0ac945121cf96048d96b98/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/66e5aabc112759b7e2aa54445b774769/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/66e5aabc112759b7e2aa54445b774769/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/a79f43270ec1f7ea6cf8647b61878699/AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/a79f43270ec1f7ea6cf8647b61878699/AndroidManifest.xml:20:5-22:41
-MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/urlconnection_interceptor-1.0.0.aar/23c0521257b0263b60b0b40513b8aa6f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/urlconnection_interceptor-1.0.0.aar/23c0521257b0263b60b0b40513b8aa6f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.taobao.android:weex_inspector:0.12.1] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_inspector-0.12.1.aar/55d9e5f5d74d49ef12e861ee14f7b5b6/AndroidManifest.xml:8:5-11:60
-MERGED from [com.taobao.android:weex_inspector:0.12.1] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_inspector-0.12.1.aar/55d9e5f5d74d49ef12e861ee14f7b5b6/AndroidManifest.xml:8:5-11:60
-MERGED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:25:5-27:41
-MERGED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:25:5-27:41
-MERGED from [org.weex.plugin:plugin-loader:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/plugin-loader-1.0.0.aar/5a3fe8db764c4d59df588def98ec9ca4/AndroidManifest.xml:5:5-7:41
-MERGED from [org.weex.plugin:plugin-loader:1.0.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/plugin-loader-1.0.0.aar/5a3fe8db764c4d59df588def98ec9ca4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:7:5-9:41
-MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fbcore-0.10.0.aar/cd14570052cbcbdc83cf1a85b97ccf8f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.10.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/fbcore-0.10.0.aar/cd14570052cbcbdc83cf1a85b97ccf8f/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:3-71
+MERGED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:3-71
+MERGED from [cn.sharesdk:ShareSDK:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.1.3.1.aar\6149b84f5c9489f92df9825e14147cce\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.1.3.1.aar\6149b84f5c9489f92df9825e14147cce\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:2:3-71
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:2:3-71
+MERGED from [com.facebook.fresco:fresco:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fresco-0.10.0.aar\6f55e0b90b95c52b7c7c37efe71c272e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fresco-0.10.0.aar\6f55e0b90b95c52b7c7c37efe71c272e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.fresco:drawee:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\drawee-0.10.0.aar\53c1c9e6a5cec5c0e395fa078a98c0ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\drawee-0.10.0.aar\53c1c9e6a5cec5c0e395fa078a98c0ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.10.0.aar\16008d612948d7fc46acceebded6854f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.10.0.aar\16008d612948d7fc46acceebded6854f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\4d2f9c13bb07b9c313aaba391b06647a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\4d2f9c13bb07b9c313aaba391b06647a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.10.0.aar\b374ba6f5e5db354c127909ad0c7e73b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.10.0.aar\b374ba6f5e5db354c127909ad0c7e73b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\8b9a7173fd05f3c70a5d5fdaa1a399dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\8b9a7173fd05f3c70a5d5fdaa1a399dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\341466d864543adf666605b7e7bd2a17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\341466d864543adf666605b7e7bd2a17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\9818e93023f83becc90968b7f5bc4a3f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\9818e93023f83becc90968b7f5bc4a3f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fa01ac98366c8459eec3f5f80d54e02f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fa01ac98366c8459eec3f5f80d54e02f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b4d142a9ffab43b4f18c37e126e1f81e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b4d142a9ffab43b4f18c37e126e1f81e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\9571db4dac0ab4fa78a12e05b54642aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\9571db4dac0ab4fa78a12e05b54642aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\9af85f4765e0b71e97cc2427cde10887\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\9af85f4765e0b71e97cc2427cde10887\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\60c5d1d1a017370eebbd293518baa979\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\60c5d1d1a017370eebbd293518baa979\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\af7c402d0bc3a97ae8be21883ae3de2c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\af7c402d0bc3a97ae8be21883ae3de2c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\48e4b48901c6e8b17c4dac74f2203773\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\48e4b48901c6e8b17c4dac74f2203773\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\e3d2bdcc75cba62c021a4d5032d2a9a8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\e3d2bdcc75cba62c021a4d5032d2a9a8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\urlconnection_interceptor-1.0.0.aar\a389a2538bd78b9cf32b62baf31aa2c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.taobao.android.weex_inspection:urlconnection_interceptor:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\urlconnection_interceptor-1.0.0.aar\a389a2538bd78b9cf32b62baf31aa2c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.taobao.android:weex_inspector:0.12.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_inspector-0.12.1.aar\dd46f121873aaa88d6004bbaf13cfe58\AndroidManifest.xml:8:5-11:60
+MERGED from [com.taobao.android:weex_inspector:0.12.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_inspector-0.12.1.aar\dd46f121873aaa88d6004bbaf13cfe58\AndroidManifest.xml:8:5-11:60
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:25:5-27:41
+MERGED from [org.weex.plugin:plugin-loader:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\plugin-loader-1.0.0.aar\a5ba83dd756093ff87a3da40bc7224b5\AndroidManifest.xml:5:5-7:41
+MERGED from [org.weex.plugin:plugin-loader:1.0.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\plugin-loader-1.0.0.aar\a5ba83dd756093ff87a3da40bc7224b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\160dfd0f5507e749660ffb62f6f51eab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\160dfd0f5507e749660ffb62f6f51eab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fbcore-0.10.0.aar\071b3f9ecf31b9b408928dfc4b3e427c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\fbcore-0.10.0.aar\071b3f9ecf31b9b408928dfc4b3e427c\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\58943103707e043c5c05d9d2e5b1daeb\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/share/playground/android/app/src/main/AndroidManifest.xml
-receiver#com.taobao.weex.WXGlobalEventReceiver
-ADDED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:30:9-34:20
-	android:enabled
-		ADDED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:32:13-35
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\jscode\weex-share\playground\android\app\src\main\AndroidManifest.xml
+meta-data#Mob-AppKey
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:4:5-72
+	android:value
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:4:42-70
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:4:16-41
+meta-data#Mob-AppSeret
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-94
+	android:value
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:44-92
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:16-43
+activity#com.mob.tools.MobUIShell
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-11:16
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:17:5-34:16
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:17:5-34:16
+	tools:node
+		ADDED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:17:232-250
+	android:windowSoftInputMode
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:15-69
+	android:configChanges
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:110-171
+	android:theme
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:172-231
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:70-109
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:7-10:23
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:9-83
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:17-81
+activity#cn.sharesdk.tencent.qq.ReceiveActivity
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-19:16
+	android:launchMode
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:15-46
+	android:noHistory
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:101-125
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:47-100
+activity#cn.sharesdk.wechat.utils.WechatHandlerActivity
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-165
 	android:exported
-		ADDED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:33:13-37
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:139-163
+	android:configChanges
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:77-138
 	android:name
-		ADDED from [com.taobao.android:weex_sdk:0.16.0] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_sdk-0.16.0.aar/541974fdbcc682680683042f693c3aae/AndroidManifest.xml:31:13-65
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:15-76
+activity-alias#${applicationId}.wxapi.WXEntryActivity
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-172
+	android:exported
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:75-98
+	android:targetActivity
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:99-170
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:21-74
+activity-alias#org.weex.demo.wxapi.WXEntryActivity
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-172
+	android:exported
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:75-98
+	android:targetActivity
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:99-170
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:21-74
+uses-permission#android.permission.GET_TASKS
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:3-65
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:3:3-65
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:20-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:3-73
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:5:3-73
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:5:3-73
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:3-73
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:7:3-73
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:7:3-73
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:20-71
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:3-75
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:13:3-75
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:13:3-75
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:20-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:3-65
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:14:3-65
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:14:3-65
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:20-63
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:3-67
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:15:3-67
+MERGED from [cn.sharesdk:OneKeyShare:3.1.3.1] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.1.3.1.aar\2db0dcf09b723a0a73e7e775504e76c3\AndroidManifest.xml:15:3-67
+	android:name
+		ADDED from [:library] F:\jscode\weex-share\android\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:20-65
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_sdk-0.16.0.aar\a3ec7b5eca4fee1895fc467d09d7040d\AndroidManifest.xml:31:13-65
 uses-permission#android.permission.READ_LOGS
-ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:12:5-68
+ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:12:5-68
 	android:name
-		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:12:22-65
+		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:12:22-65
 activity#com.taobao.weex.analyzer.view.SettingsActivity
-ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:15:9-17:52
+ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:15:9-17:52
 	android:screenOrientation
-		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:17:13-49
+		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:17:13-49
 	android:name
-		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] /Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/AndroidManifest.xml:16:13-74
+		ADDED from [com.taobao.android:weex_analyzer:0.1.0.5] C:\Users\32853\.gradle\caches\transforms-1\files-1.1\weex_analyzer-0.1.0.5.aar\bb05286e60d37bb032d3d460d750233b\AndroidManifest.xml:16:13-74

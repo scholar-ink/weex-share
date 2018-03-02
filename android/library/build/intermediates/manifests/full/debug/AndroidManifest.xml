@@ -1,11 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.weex.plugin.share"
-    android:versionCode="1"
-    android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="25" />
-
+<?xml version="1.0" encoding="UTF-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.weex.plugin.share" android:versionName="1.0" android:versionCode="1">
+  <uses-sdk android:targetSdkVersion="25" android:minSdkVersion="15"/>
+  <application android:name="com.mob.MobApplication">
+    <meta-data android:name="Mob-AppKey" android:value="d580ad56b4b5"/>
+    <meta-data android:name="Mob-AppSeret" android:value="7fcae59a62342e7e2759e9e397c82bdd"/>
+    <activity android:windowSoftInputMode="stateHidden|adjustResize" android:name="com.mob.tools.MobUIShell" android:configChanges="keyboardHidden|orientation|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+      <intent-filter>
+        <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+    <activity android:launchMode="singleTask" android:name="cn.sharesdk.tencent.qq.ReceiveActivity" android:noHistory="true">
+      <intent-filter>
+        <data android:scheme="tencent1106613900"/>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+      </intent-filter>
+    </activity>
+    <activity android:name="cn.sharesdk.wechat.utils.WechatHandlerActivity" android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false"/>
+    <activity-alias android:name="${applicationId}.wxapi.WXEntryActivity" android:exported="true" android:targetActivity="cn.sharesdk.wechat.utils.WechatHandlerActivity"/>
+  </application>
+  <uses-permission android:name="android.permission.GET_TASKS"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+  <uses-permission android:name="android.permission.BLUETOOTH"/>
+  <uses-permission android:name="android.permission.RECEIVE_SMS"/>
 </manifest>

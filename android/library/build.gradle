@@ -1,11 +1,11 @@
 apply plugin: 'com.android.library'
-
+apply plugin: "com.mob.sdk"
 android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
 
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -24,9 +24,35 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    MobSDK {
+        appKey "d580ad56b4b5"
+        appSecret "7fcae59a62342e7e2759e9e397c82bdd"
+
+        ShareSDK {
+            devInfo {
+                SinaWeibo {
+                    appKey "568898243"
+                    appSecret "38a4f8204cc784f81f9f0daaf31e02e3"
+                    callbackUri "http://www.sharesdk.cn"
+                    shareByAppClient false
+                }
+                Wechat {
+                    appId "wx4868b35061f87885"
+                    appSecret "64020361b8ec4c99936c0e3999a9f249"
+                }
+                QQ {
+                    appId "1106613900"
+                    appKey "rYgXiPenEOuJs0fM"
+                    shareByAppClient true
+                }
+            }
+        }
+    }
 }
 
 dependencies {
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'

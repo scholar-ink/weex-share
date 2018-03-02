@@ -2,6 +2,9 @@
 	<div class="conatiner">
 		<text style="margin-bottom: 20px;">weex plugin examples</text>
 		<div @click="createAction" style="margin: 20px;padding:20px;background-color:#1ba1e2;color:#fff;"><text style="color:#fff">hello world</text></div>
+		<div @click="createAction" style="margin: 20px;padding:20px;background-color:#1ba1e2;color:#fff;"><text style="color:#fff">hello world</text></div>
+		<div @click="createAction" style="margin: 20px;padding:20px;background-color:#1ba1e2;color:#fff;"><text style="color:#fff">hello world</text></div>
+		<div @click="createAction" style="margin: 20px;padding:20px;background-color:#1ba1e2;color:#fff;"><text style="color:#fff">hello world</text></div>
 	</div>
 </template>
 
@@ -23,7 +26,6 @@
 		methods: {
 			createAction: function() {
 				plugin.show();
-
 			}
 		}
 	}

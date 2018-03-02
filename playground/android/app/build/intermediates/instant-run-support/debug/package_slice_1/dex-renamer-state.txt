@@ -1,0 +1,4 @@
+#Fri Mar 02 17:27:03 CST 2018
+base.0=F\:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=F\:\\jscode\\weex-share\\playground\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

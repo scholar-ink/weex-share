@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.jakewharton.scalpel:scalpel:1.1.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.scalpel/scalpel/1.1.2/5ba0479abcf273a2c252dc65d47e4d5b95b2f700/scalpel-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.scalpel/scalpel/1.1.2/fd61c43e40a3d3e40953f35405da9d06c8134b0b/scalpel-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

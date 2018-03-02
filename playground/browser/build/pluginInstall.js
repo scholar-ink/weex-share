@@ -1,4 +1,4 @@
-// NOTE: for vue2.0 and platform:web only.
+// { "framework": "Vue" }
 
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -42,14 +42,13 @@
 /******/ 	return __webpack_require__(0);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ 0:
+/******/ ([
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 
-	var _src = __webpack_require__(10);
+	var _src = __webpack_require__(4);
 
 	var _src2 = _interopRequireDefault(_src);
 
@@ -62,8 +61,10 @@
 	}
 
 /***/ }),
-
-/***/ 10:
+/* 1 */,
+/* 2 */,
+/* 3 */,
+/* 4 */
 /***/ (function(module, exports) {
 
 	'use strict';
@@ -130,5 +131,4 @@
 	};
 
 /***/ })
-
-/******/ });
+/******/ ]);

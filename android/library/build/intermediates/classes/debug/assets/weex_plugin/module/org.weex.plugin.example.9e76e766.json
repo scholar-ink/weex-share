@@ -1,0 +1,1 @@
+[{"canOverrideExisting":true,"globalRegistration":false,"functions":[],"name":"testPlugin","class":"org.weex.plugin.example.TestPluginModule","lazyLoad":false},{"canOverrideExisting":true,"globalRegistration":false,"functions":[],"name":"share","class":"org.weex.plugin.share.ShareModule","lazyLoad":false}]

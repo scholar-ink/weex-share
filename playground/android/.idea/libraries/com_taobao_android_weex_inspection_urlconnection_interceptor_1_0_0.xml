@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.taobao.android.weex_inspection:urlconnection_interceptor-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/urlconnection_interceptor-1.0.0.aar/a389a2538bd78b9cf32b62baf31aa2c5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/urlconnection_interceptor-1.0.0.aar/a389a2538bd78b9cf32b62baf31aa2c5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android.weex_inspection/urlconnection_interceptor/1.0.0/17fc0fd5845e988c15406bfaf4c1a392aa263b8f/urlconnection_interceptor-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

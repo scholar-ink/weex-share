@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\jscode\weex-share\playground\android\build\intermediates\Mob\assets"><file name="ShareSDK.xml" path="F:\jscode\weex-share\playground\android\build\intermediates\Mob\assets\ShareSDK.xml"/></source><source path="F:\jscode\weex-share\android\library\src\main\assets"/><source path="F:\jscode\weex-share\android\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\jscode\weex-share\android\library\src\debug\assets"/></dataSet></merger>
